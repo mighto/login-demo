@@ -1,0 +1,8 @@
+spring:
+#  cache:
+#    ehcache:
+#      config: classpath:/ehcache.xml
+
+login:
+  username: admin
+  password: password
